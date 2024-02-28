@@ -1,31 +1,18 @@
-<!--
-**arturoflores03/arturoflores03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there!&height=100&section=header&fontColor=d6ace6)
+### ! Hey ho let's go🌟
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arturo-flores-silva-7bb448225/)
+### A little bit about me:
+- 🔭 I'm currently working as a Junior Fullstack Developer at Continuum, crafting innovative and efficient solutions across a wide range of projects. I'm dedicated to continuous learning and applying new technologies to enhance both user experience and development efficiency.
+- 📚 I’m currently expanding my knowledge in **DevOps**, diving deep into practices of continuous integration and delivery, infrastructure as code management, and more. I'm excited about how this field can improve workflows in both development and operations.
+- 💬 I'm passionate about technology and always ready to share my experiences in fullstack development. Also, if you're working in some interesting project and need help just invite me!!!
 
-# ¡Hola, soy Arturo Flores! 👋
+### Some tools I have used and I'm familiar with:
 
-## 🔭 Trabajando Actualmente
-Soy Desarrollador Fullstack Junior en Continuum, donde me dedico a crear soluciones innovadoras y eficientes para una amplia gama de proyectos. Estoy comprometido con el aprendizaje continuo y la aplicación de nuevas tecnologías para mejorar la experiencia del usuario y la eficiencia del desarrollo.
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
+![Cypress Badge](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=for-the-badge)
+![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 
-## 🌱 Aprendizaje Actual
-Actualmente estoy ampliando mis conocimientos en el mundo de **DevOps**, participando activamente en un curso para profundizar en prácticas de integración y entrega continuas, gestión de infraestructuras como código, y más. Estoy entusiasmado con cómo este campo puede mejorar los flujos de trabajo en desarrollo y operaciones.
-
-## 👯 Colaboración
-Si bien no he especificado un área particular para colaboraciones, me apasiona la tecnología y estoy abierto a participar en proyectos innovadores. Si tienes una idea o proyecto en mente, ¡no dudes en contactarme!
-
-## 🤔 Buscando Ayuda
-Estoy en constante búsqueda de consejos y mejores prácticas en DevOps y desarrollo fullstack. Si tienes experiencia o recursos que crees que podrían ayudarme, ¡me encantaría escucharlos!
-
-## 💬 Pregúntame Sobre
-Me manejo mas alrededor de Javascrip tanto en el back como en el front (Aunque me gusta mas el back), te puedo ayudar con el desarrollo web de principio a fin!
-
-## 📫 Cómo Contactarme
-- Correo Electrónico: [arturofloressilva03@gmail.com](mailto:arturofloressilva03@gmail.com)
-- LinkedIn: [Arturo Flores Silva](https://www.linkedin.com/in/arturo-flores-silva-7bb448225/)
-
-## ⚡ Dato Curioso
-A pesar de medir 1.63 m, juego baloncesto. 
-
----
-
-Espero que esta introducción te haya dado una buena idea de quién soy y lo que hago. ¡Gracias por visitar mi perfil!
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
