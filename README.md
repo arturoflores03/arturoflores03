@@ -17,17 +17,14 @@ Si bien no he especificado un área particular para colaboraciones, me apasiona 
 Estoy en constante búsqueda de consejos y mejores prácticas en DevOps y desarrollo fullstack. Si tienes experiencia o recursos que crees que podrían ayudarme, ¡me encantaría escucharlos!
 
 ## 💬 Pregúntame Sobre
-Soy un apasionado de la tecnología y siempre estoy dispuesto a compartir mis experiencias en desarrollo fullstack. También, si estás interesado en saber cómo es jugar al baloncesto midiendo 1.63 m, ¡pregúntame!
+Me manejo mas alrededor de Javascrip tanto en el back como en el front (Aunque me gusta mas el back), te puedo ayudar con el desarrollo web de principio a fin!
 
 ## 📫 Cómo Contactarme
 - Correo Electrónico: [arturofloressilva03@gmail.com](mailto:arturofloressilva03@gmail.com)
 - LinkedIn: [Arturo Flores Silva](https://www.linkedin.com/in/arturo-flores-silva-7bb448225/)
 
-## 😄 Pronombres
-Prefiero que se me llame por mi nombre, Arturo.
-
 ## ⚡ Dato Curioso
-A pesar de medir 1.63 m, disfruto jugando baloncesto. Me encanta desafiar las expectativas y superar mis límites, tanto en la cancha como en el desarrollo de software.
+A pesar de medir 1.63 m, juego baloncesto. 
 
 ---
 
