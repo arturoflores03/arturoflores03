@@ -2,7 +2,7 @@
 ### ! Hey ho let's go🌟
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arturo-flores-silva-7bb448225/)
 ### A little bit about me:
-- 🔭 I'm currently working as a Junior Fullstack Developer at Continuum, crafting innovative and efficient solutions across a wide range of projects. I'm dedicated to continuous learning and applying new technologies to enhance both user experience and development efficiency.
+- 🔭 I'm currently working as a Fullstack Developer at Continuum, crafting innovative and efficient solutions across a wide range of projects. I'm dedicated to continuous learning and applying new technologies to enhance both user experience and development efficiency.
 - 📚 I’m currently expanding my knowledge in **DevOps**, diving deep into practices of continuous integration and delivery, infrastructure as code management, and more. I'm excited about how this field can improve workflows in both development and operations.
 - 💬 I'm passionate about technology and always ready to share my experiences in fullstack development. Also, if you're working in some interesting project and need help just invite me!!!
 
